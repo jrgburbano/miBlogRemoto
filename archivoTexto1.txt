@@ -3,3 +3,6 @@ Hola, este es mi primer repositorio de Git.
 Lo estaremos modificando con el paso del tiempo.
 
 Hoy es 27 de diciembre de 2023, Bai baiii!
+
+Hoy es 06 de enero de 2024, eliminamos algunas cosas y estamos añadiendo
+estas líneas desde VSC.
